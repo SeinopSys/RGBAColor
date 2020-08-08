@@ -1,4 +1,4 @@
-<h1>RGBAColor Class <a href="https://travis-ci.org/ponydevs/MLPVC-RR"><img src="https://travis-ci.org/SeinopSys/RGBAColor.svg?branch=master" alt="Build Status"></a></h1>
+<h1>RGBAColor Class <a href="https://travis-ci.com/github/SeinopSys/RGBAColor"><img src="https://travis-ci.com/SeinopSys/RGBAColor.svg?branch=master" alt="Build Status"></a></h1>
 
 A flexible class for parsing/storing color values
 
